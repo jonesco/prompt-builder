@@ -2,7 +2,7 @@
   "name": "prompt-builder",
   "version": "1.0.0",
   "description": "AI Prompt Builder - Create structured, effective prompts",
-  "homepage": "https://[your-username].github.io/prompt-builder",
+  "homepage": "https://jonesco.github.io/prompt-builder",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
